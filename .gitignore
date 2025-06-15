@@ -45,4 +45,5 @@ Thumbs.db
 .env
 .env.local
 jarvis_simple_db/
-jarvis_comprehensive_db/ 
+jarvis_comprehensive_db/
+.pytest_cache/
