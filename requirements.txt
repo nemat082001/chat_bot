@@ -12,5 +12,7 @@ python-docx2txt==0.8
 PyPDF2==3.0.1
 openpyxl==3.1.2
 
-# Skip problematic LangChain for now
-# We'll create a minimal version first
+# LangChain ecosystem
+langchain==0.0.352
+chromadb==0.4.14
+ollama==0.1.7
