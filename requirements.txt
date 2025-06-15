@@ -1,0 +1,16 @@
+# requirements_compatible.txt - Python 3.12 compatible
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+
+# Core packages (3.12 compatible)
+pandas==2.1.4
+numpy==1.26.2
+
+# Simplified document processing
+python-docx2txt==0.8
+PyPDF2==3.0.1
+openpyxl==3.1.2
+
+# Skip problematic LangChain for now
+# We'll create a minimal version first
