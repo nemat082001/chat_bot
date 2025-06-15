@@ -16,7 +16,7 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 # Import your existing components
 from integrate_jarvis_fixed import CompleteJarvisSystem
-from complete_jarvis_advanced_features import JarvisFormulaCalculator
+from advanced_jarvis_features import JarvisFormulaCalculator
 
 app = FastAPI(title="JARVIS API", version="1.0.0")
 

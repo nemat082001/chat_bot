@@ -3,7 +3,7 @@
 Enhanced pipeline handler that connects React frontend with your pipeline steps
 """
 
-from complete_jarvis_advanced_features import JarvisPipeline
+from advanced_jarvis_features import JarvisPipeline
 from typing import Dict, Any
 
 class EnhancedJarvisPipeline(JarvisPipeline):

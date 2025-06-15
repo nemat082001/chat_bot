@@ -1,5 +1,5 @@
 # test_jarvis_pipeline.py
-from src.complete_jarvis_advanced_features import JarvisFormulaCalculator, JarvisLogicGates
+from src.advanced_jarvis_features import JarvisFormulaCalculator, JarvisLogicGates
 
 # Test 1: Formula Calculator
 calculator = JarvisFormulaCalculator()
